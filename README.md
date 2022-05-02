@@ -1,4 +1,4 @@
-# -hot50-
+# NetbaseMusic_hot50_song_comment_spider
 python网络爬虫，request, mysql,snownlp, wordcloud, pyrcharts
 Crawl songs' comments from music.163.com and analysis
 网易云歌曲评论爬取及数据可视化分析
